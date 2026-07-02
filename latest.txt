@@ -1,3 +1,5 @@
+10h - 03.07: Ra mắt máy chủ S850. Galleila
+Sự kiện Tuần 1 Tháng 07.2026
 Điều chỉnh tính năng Thẻ Bài
 Hoạt Động Vương Giả Chiến Lần Thứ 82
 Thử Nghiệm Tam Đấu Vương Giả Tháng 7
@@ -6,5 +8,3 @@ Sự Kiện Đổi Quà World Cup 2026
 Sự kiện Tuần 4 Tháng 06.2026
 10h - 26.06: Ra mắt máy chủ S849.Louis Arnote
 Vượt Ải Đại Chiến T06.2026
-Event Tích Lũy Tháng 6.2026 - Đợt 4
-10h - 19.06: Ra mắt máy chủ S848.Tritoma
